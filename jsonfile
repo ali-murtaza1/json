@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "John Doe",
+      "age": 30,
+      "gender": "Male",
+      "department": "Marketing"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "gender": "Female",
+      "department": "Engineering"
+    },
+    {
+      "name": "Michael Johnson",
+      "age": 40,
+      "gender": "Male",
+      "department": "Finance"
+    }
+  ]
+}
